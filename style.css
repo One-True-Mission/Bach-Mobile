@@ -955,6 +955,7 @@ footer { background: #080809; border-top: 1px solid var(--border-bright); paddin
   .sticky-call-bar { display: flex; }
   body { padding-bottom: 76px; }
   .nav-cta-group { display: none !important; }
+  nav { justify-content: center; }
 }
 
 @media (max-width: 700px) {
