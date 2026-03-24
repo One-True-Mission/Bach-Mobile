@@ -70,6 +70,7 @@ nav {
   justify-content: space-between;
   padding: 0 4rem;
   height: 120px;
+  overflow: visible;
   background: rgba(10,10,10,1);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border-bright);
